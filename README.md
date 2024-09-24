@@ -4,5 +4,9 @@ Function Snapshot : (Creating Augmentations and Storing them in a Folder)
 Augmented images 
 ![image](https://github.com/user-attachments/assets/ecd75dd3-1a05-4a12-a48d-1718a7d0224d)
 
-# Mask Generation and Image Segmetation using SAM
+# Sample output of Image Segmetation using SAM
+![image](https://github.com/user-attachments/assets/93ddcee3-7dcd-4c42-a3ab-d6825e3f1923)
+
+# Sample run of deep learning model
+
 
